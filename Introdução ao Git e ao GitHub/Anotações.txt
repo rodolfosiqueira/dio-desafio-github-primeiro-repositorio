@@ -1,0 +1,12 @@
+Comandos:
+
+GIT CLONE: vai clonar um repositório remoto para sua máquina.
+
+CD: vai entrar no repositório atual.
+
+GIT STATUS: verifica se houve alteração dentro do repositório.
+
+
+O que é o GIT BASH??
+
+Git Bash é um terminal extendido para otimizar o uso do Git.
